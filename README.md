@@ -24,7 +24,9 @@
 
 ## 如何贡献
 
-本项目采用[github](https://github.com/hcp4715/PyBayesianBook)进行管理，欢迎大家提交PR。具体而言，在`book`这一文件中，有各个章节的md文件以及图片。如果发现哪个章节有问题，找到与之对应的md文件进行修改后在github上提交PR即可。步骤如下：
+本项目采用[github](https://github.com/hcp4715/PyBayesianBook)进行管理，欢迎大家提交PR。具体而言，在`book`这一文件中，有各个章节的md文件以及图片。如果发现哪个章节有问题，找到与之对应的md文件进行修改后在github上提交PR即可。电子书的制作、发布与贡献教程见[B站视频](https://www.bilibili.com/video/BV13mnJzyEKa/?spm_id_from=333.1368.list.card_archive.click&vd_source=475dbd6f0753dddc878c6cf6af552a95)。
+
+步骤如下：
 
 0. 注册github账号（如果还没有的话）
 1. fork本项目
