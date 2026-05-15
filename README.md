@@ -1,7 +1,7 @@
 # PsyBayesianBook
 
 ## 关于本项目
-本项目将用于将《心理学研究中的贝叶斯统计》一课中的录音转为jupyterbook，以便于后续的整理和学习。
+本项目将用于将《贝叶斯统计及其在心理学中的应用》一课中的录音转为jupyterbook，以便于后续的整理和学习。
 
 课程相关信息：[Gitee仓库](https://gitee.com/hcp4715/PsyBayesian) | [B站视频](https://www.bilibili.com/video/BV1W6paeLExS/)
 
