@@ -38,7 +38,7 @@
 
 ## 如何引用
 
-Chuan-Peng, H., & Wang, J. (2025). 贝叶斯统计及其在心理学中的应用. Zenodo. https://doi.org/10.5281/zenodo.17623003
+胡传鹏, 王继贤 (2025). 贝叶斯统计及其在心理学中的应用. Zenodo. https://doi.org/10.5281/zenodo.17623003
 
 ## 本项目文件目录
 
